@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🎓 B.Sc. in Computer Science
 
-I'm a juniro frontend developer passionate about building responsive, user-friendly web applications. I enjoy turning ideas into functional interfaces and continuously expanding my knowledge of modern web technologies.
+I'm a junior frontend developer passionate about building responsive, user-friendly web applications. I enjoy turning ideas into functional interfaces and continuously expanding my knowledge of modern web technologies.
 
 * 🔭 Currently building **my portfolio**
 * 🌱 Currently learning **React**
