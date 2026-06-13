@@ -24,7 +24,7 @@ I'm a junior frontend developer passionate about building responsive, user-frien
 
 * 🔭 Currently building **my portfolio**
 * 🌱 Currently learning **React**
-* 💡 Skilled in **Angular, TypeScript, Basic JavaScript, Tailwind CSS, HTML, CSS, and RESTful APIs**
+* 💡 Skilled in **Angular, TypeScript, Basic JavaScript, Tailwind CSS, HTML, CSS, and simple RESTful APIs**
 * 🚀 Committed to continuous learning and growth as a developer
 * 📫 Reach me at **[abohsharon5@gmail.com](mailto:abohsharon5@gmail.com)**
 * ⚡ Fun fact: **I enjoy drawing**
